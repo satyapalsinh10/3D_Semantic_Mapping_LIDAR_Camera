@@ -7,7 +7,7 @@ import struct
 import copy
 from Code.Utils import *
 import sys
-sys.path.insert(0, '/home/mandeep/Lidar/Code/DeepLabV3Plus-Pytorch')
+sys.path.insert(0, '/home/Lidar/Code/DeepLabV3Plus-Pytorch')
 from predict import semantics
 from argparse import ArgumentParser
 import shutil
