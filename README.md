@@ -57,6 +57,6 @@ The Semantic_Mapping.mp4 video showcases the entire semantic mapping process. It
 ## References
 
 1. [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
-2. https://github.com/naitri/PointPainting
+2. https://github.com/AmrElsersy/PointPainting
 3. https://github.com/VainF/DeepLabV3Plus-Pytorch
 4. https://rbe549.github.io/fall2022/hw/hw2
