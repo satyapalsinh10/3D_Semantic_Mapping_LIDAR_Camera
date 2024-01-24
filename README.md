@@ -31,9 +31,11 @@ In this part of the project, we achieved the following results:
 - **Point Cloud Projections on the Image**: To provide a visual understanding of how our semantic labels align with the 3D environment, we projected the LIDAR point cloud onto the segmented RGB images. This projection allowed us to visualize how objects in the point cloud correspond to the labeled regions in the RGB images.
 
 
-<img src="Code/Results/lidar_semantics.gif"  align="center" alt="Undistorted" width="500"/>
 
 
+<p align="center">
+  <img src="Code/Results/lidar_semantics.gif"  align="center" alt="Undistorted" width="600"/>
+</p>
 
 #### 2. Semantically Segmented Point Cloud
 
@@ -43,9 +45,11 @@ In the second part of our project, we obtained semantically segmented point clou
 
 - **Visual Verification**: To validate the correctness of our semantically segmented point cloud, we visually inspected the results. Objects and regions in the point cloud were colored according to their semantic labels. While there may be some minor errors due to imperfect semantic predictions, the overall mapping of semantics onto the point cloud was successful.
 
-<img src="Code/Results/pointcloud.gif"  align="center" alt="Undistorted" width="500"/>
 
 
+<p align="center">
+  <img src="Code/Results/pointcloud.gif"  align="center" alt="Undistorted" width="600"/>
+</p>
 
 ## Visualization
 The Semantic_Mapping.mp4 video showcases the entire semantic mapping process. It includes visualizations of RGB images, 3D point clouds, and the transfer of semantic labels onto the LIDAR map.
